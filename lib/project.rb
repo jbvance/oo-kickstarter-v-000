@@ -10,5 +10,5 @@ class Project
   def add_backer(backer)
     @backers.push(backer)
   end
-  
+
 end
