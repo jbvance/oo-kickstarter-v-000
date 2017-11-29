@@ -11,5 +11,5 @@ class Backer
     @backed_projects.push(project)
     project.add_backer(self)
   end
-  
+
 end
